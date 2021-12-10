@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">async_task_example</string>
+    <string name="btn_text">Load</string>
+</resources>
